@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-ua-zxh.git"
+    "url": "git+https://github.com/xiaohuzou/egg-ua-zxh.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/xiaohuzou/egg-ua-zxh/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-ua-zxh#readme",
+  "homepage": "https://github.com/xiaohuzou/egg-ua-zxh#readme",
   "author": "zouxiaohu",
   "license": "MIT"
 }
