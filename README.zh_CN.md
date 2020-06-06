@@ -11,8 +11,8 @@
 [npm-url]: https://npmjs.org/package/egg-ua-zxh
 [travis-image]: https://img.shields.io/travis/eggjs/egg-ua-zxh.svg?style=flat-square
 [travis-url]: https://travis-ci.org/eggjs/egg-ua-zxh
-[codecov-image]: https://img.shields.io/codecov/c/github/eggjs/egg-ua-zxh.svg?style=flat-square
-[codecov-url]: https://codecov.io/github/eggjs/egg-ua-zxh?branch=master
+[codecov-image]: https://img.shields.io/codecov/c/github/xiaohuzou/egg-ua-zxh.svg?style=flat-square
+[codecov-url]: https://codecov.io/github.com/xiaohuzou/egg-ua-zxh?branch=master
 [david-image]: https://img.shields.io/david/eggjs/egg-ua-zxh.svg?style=flat-square
 [david-url]: https://david-dm.org/eggjs/egg-ua-zxh
 [snyk-image]: https://snyk.io/test/npm/egg-ua-zxh/badge.svg?style=flat-square
@@ -69,7 +69,7 @@ exports.uaZxh = {
 
 ## 提问交流
 
-请到 [egg issues](https://github.com/eggjs/egg/issues) 异步交流。
+请到 [egg issues](https://github.com/xiaohuzou/egg-ua-zxh/issues) 异步交流。
 
 ## License
 
